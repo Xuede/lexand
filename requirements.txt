@@ -1,0 +1,5 @@
+pymongo
+pinecone
+requests
+datetime
+google-cloud-vertex-ai
